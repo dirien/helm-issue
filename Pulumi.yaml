@@ -1,0 +1,3 @@
+name: helm-issue
+description: A minimal Go Pulumi program
+runtime: go
